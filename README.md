@@ -1,5 +1,4 @@
-# 111_1_CS
-for CS class
+# 111_1_CS 實習課筆記
 # W1  
 # Git&Linux的簡介
 * Git
